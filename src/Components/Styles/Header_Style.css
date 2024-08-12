@@ -1,0 +1,12 @@
+.burger_style{
+    color: var(--yellow);
+}
+.king-style{
+    color: var(--green);
+}
+.nave-hover .nav-link:hover{
+    color: var(--yellow);
+}
+.navbar-toggler:focus{
+    box-shadow:0 0 0 yellow!important;
+}

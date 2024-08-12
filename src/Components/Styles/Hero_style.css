@@ -1,0 +1,50 @@
+.btn-menu {
+    background-color: var(--yellow);
+    border-color: var(--yellow);
+
+}
+.btn-table {
+    background-color: var(--green);
+    border-color: var(--green);
+
+}
+
+.btn-menu:hover {
+    background-color: transparent;
+    border-color: var(--yellow);
+}
+
+.btn-menu:active {
+    background-color: var(--yellow) !important;
+    border-color: var(--yellow) !important;
+}
+.btn-table:hover {
+    background-color: transparent;
+    border-color: var(--green);
+}
+
+.btn-table:active {
+    background-color: var(--green) !important;
+    border-color: var(--green) !important;
+}
+.quality{
+    color: var(--yellow);
+}
+.bg_hero1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(12, 11, 11, 0.5)),url("../Assets/carousel-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg_hero2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(12, 11, 11, 0.5)),url("../Assets/carousel-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bg_hero3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(12, 11, 11, 0.5)),url("../Assets/carousel-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
