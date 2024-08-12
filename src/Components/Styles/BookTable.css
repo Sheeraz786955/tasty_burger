@@ -1,0 +1,32 @@
+.icon_style{
+    right: 0;
+margin-right: 12px;
+}
+.table_bg{
+    background-color: var(--yellow);
+}
+.T_Head{
+    color: var(--green);
+}
+.input_style:focus{
+box-shadow: none;
+border-color: white;
+}
+.input_style{
+    border-color: white;
+}
+.btn-sub {
+    background-color: white;
+    border-color: var(--yellow);
+    color: var(--yellow);
+
+}
+.btn-sub:hover {
+    background-color: transparent;
+    border-color: var(--yellow);
+}
+
+.btn-sub:active {
+    background-color: var(--yellow) !important;
+    border-color: var(--yellow) !important;
+}
