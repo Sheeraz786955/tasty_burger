@@ -23,8 +23,8 @@ function Hero() {
                     eiusmod incididunt
                   </h6>
                   <div className="text-center mb-5">
-                  <ButtonMenu/>
-                  <Buttontable/>
+                    <ButtonMenu />
+                    <Buttontable />
                   </div>
                 </div>
               </div>
@@ -45,8 +45,8 @@ function Hero() {
                     eiusmod incididunt
                   </h6>
                   <div className="text-center mb-5">
-                  <ButtonMenu/>
-                  <Buttontable/>
+                    <ButtonMenu />
+                    <Buttontable />
                   </div>
                 </div>
               </div>
@@ -67,8 +67,8 @@ function Hero() {
                     eiusmod incididunt
                   </h6>
                   <div className="text-center mb-5">
-                   <ButtonMenu/>
-                   <Buttontable/>
+                    <ButtonMenu />
+                    <Buttontable />
                   </div>
                 </div>
               </div>
