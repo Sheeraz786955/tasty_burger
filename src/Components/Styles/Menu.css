@@ -1,0 +1,15 @@
+.menu_img {
+    width: 120px;
+    height: 90px;
+}
+.btn_link {
+    color: var(--yellow);
+}
+
+.color_y {
+    color: var(--yellow);
+}
+.img_size{
+    width: 70px;
+    height: 70px;
+}

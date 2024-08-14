@@ -1,0 +1,16 @@
+.btn-about {
+    background-color: var(--yellow);
+    border-color: var(--yellow);
+    color: white;
+
+}
+.btn-about:hover {
+    background-color: transparent;
+    border-color: var(--yellow);
+    color: var(--yellow);
+}
+.btn-about:active {
+    background-color: var(--yellow) !important;
+    border-color: var(--yellow) !important;
+    color: white !important;
+}

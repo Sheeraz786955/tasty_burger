@@ -3,7 +3,7 @@ import "../Styles/BookTable.css";
 function BookTable() {
   return (
     <>
-      <div className="container-fluid">
+      <div className="container-fluid bg-body-secondary">
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-sm-12 col-12 py-5">
